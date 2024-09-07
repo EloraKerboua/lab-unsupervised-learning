@@ -9,6 +9,8 @@ CREATE TABLE IF NOT EXISTS `wholesale_customers_data` (
     `Delicassen` INT
 );
 
+
+
 INSERT INTO wholesale_customers_data VALUES
 (2,3,12669,9656,7561,214,2674,1338),
 (2,3,7057,9810,9568,1762,3293,1776),
